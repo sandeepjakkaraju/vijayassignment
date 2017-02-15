@@ -1,4 +1,4 @@
-# Shiro Spring Petclinic
+# Assignment
 
 
 Features:
